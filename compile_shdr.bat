@@ -1,3 +1,3 @@
 cd bgfx-minimal-example-addon/bm/shdr
-make
+make TARGET=all
 PAUSE
