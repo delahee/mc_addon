@@ -1,0 +1,3 @@
+[submodule "bgfx-minimal-example-addon"]
+	path = bgfx-minimal-example-addon
+	url = https://github.com/delahee/bgfx-minimal-example-addon.git
