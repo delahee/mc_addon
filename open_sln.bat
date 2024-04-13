@@ -1,0 +1,1 @@
+start bgfx-minimal-example\build\vs2022\bgfx-minimal-example.sln

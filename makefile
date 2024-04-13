@@ -5,7 +5,10 @@ all:
 FORCE:
 
 clone:
-	git clone https://github.com/jpcy/bgfx-minimal-example	
+	git clone --recurse-submodules https://github.com/jpcy/bgfx-minimal-example	
 
-gen: FORCE
-	cd bgfx-minimal-example  && ../pm/premake5.exe vs2022 .
+gen_sln: FORCE
+	cd bgfx-minimal-example && ../pm/premake5.exe vs2022 .
+	
+open_sln:
+	./open_sln.bat
