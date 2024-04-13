@@ -1,1 +1,1 @@
-git clone --recurse-submodules https://github.com/jpcy/bgfx-minimal-example	
+git clone --recurse-submodules https://github.com/delahee/bgfx-minimal-example-addon

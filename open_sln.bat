@@ -1,1 +1,1 @@
-start bgfx-minimal-example\build\vs2022\bgfx-minimal-example.sln
+start bgfx-minimal-example-addon\build\vs2022\bgfx-minimal-example.sln
